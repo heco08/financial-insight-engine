@@ -4,12 +4,15 @@ Welcome to the Python Financial Analysis repository! This project is designed to
 
 ## Table of Contents
 
-- Introduction
-- Features
-- Installation
-- Usage
-- Contributing
-- License
+-Capital Asset Pricing Model (CAPM) - Skeleton.ipynb
+-Portfolio Assets Allocation and Statistical Data Analysis - Skeleton.ipynb
+-Portfolio Assets Allocation and Statistical Data Analysis - Solution.ipynb
+-Portfolio Optimization _ Monte Carlo Simulations - Solution.ipynb
+-Stocks Data Analysis and Visualization - Skeleton.ipynb
+-Stocks Data Analysis and Visualization - Solution.ipynb
+-Trading Using Momentum Indicator - Solution.ipynb
+-Trading Using Moving Average - Solution.ipynb
+
 
 ## Introduction
 
