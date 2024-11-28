@@ -60,6 +60,3 @@ We welcome contributions! Please read our contributing guidelines to get started
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-Feel free to customize this template to better fit your project's specifics. Let me know if you need any more details or adjustments!
