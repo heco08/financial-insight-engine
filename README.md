@@ -5,12 +5,19 @@ Welcome to the Python Financial Analysis repository! This project is designed to
 ## Table of Contents
 
 -Capital Asset Pricing Model (CAPM)
+
 -Portfolio Assets Allocation and Statistical Data Analysis
+
 -Portfolio Assets Allocation and Statistical Data Analysis
+
 -Portfolio Optimization _ Monte Carlo Simulations
+
 -Stocks Data Analysis and Visualization
+
 -Stocks Data Analysis and Visualization
+
 -Trading Using Momentum Indicator
+
 -Trading Using Moving Average
 
 
