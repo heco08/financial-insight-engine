@@ -1,3 +1,16 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Datos y salidas pesadas
+*.csv
+*.xlsx
+*.pkl
+outputs/
 venv/
 __pycache__/
 *.pyc

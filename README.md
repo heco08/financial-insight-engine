@@ -1,62 +1,73 @@
-# Python Financial Analysis
+# 🧠 Financial Insight Engine
 
-Welcome to the Python Financial Analysis repository! This project is designed to provide tools and scripts for performing financial analysis using Python.
+An intelligent tool to analyze the financial performance of companies using Python, financial ratios, data visualization, and machine learning.
 
-## Table of Contents
+---
 
-- Capital Asset Pricing Model (CAPM)
+## 📌 Features
 
-- Portfolio Assets Allocation and Statistical Data Analysis
+- 📥 Load company financial data (Yahoo Finance, etc.)
+- 📊 Compute key financial ratios (liquidity, profitability, leverage, activity)
+- 📈 Visualize trends and compare performance
+- 🧠 Predict financial metrics using ML models
+- 🧾 Export results (optional: PDF, Excel)
+- 🌐 Streamlit dashboard (optional, future)
 
-- Portfolio Assets Allocation and Statistical Data Analysis
+---
 
-- Portfolio Optimization _ Monte Carlo Simulations
+## 📁 Project Structure
 
-- Stocks Data Analysis and Visualization
+financial-insight-engine/
+├── data/ # Raw and processed datasets
+├── models/ # Trained models
+├── notebooks/ # Exploratory and analysis notebooks
+├── outputs/ # Graphs, reports, etc.
+├── scripts/ # Python scripts and utils
+├── requirements.txt
+├── README.md
+└── .gitignore
 
-- Stocks Data Analysis and Visualization
+yaml
+Copiar
+Editar
 
-- Trading Using Momentum Indicator
+---
 
-- Trading Using Moving Average
+## 🚀 Getting Started
 
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/heco08/financial-insight-engine.git
+   cd financial-insight-engine
+Create a virtual environment and activate it:
 
-## Introduction
+bash
+Copiar
+Editar
+python3 -m venv venv
+source venv/bin/activate
+Install dependencies (coming soon):
 
-This repository contains a collection of Python scripts and Jupyter notebooks for analyzing financial data. Whether you're a data scientist, financial analyst, or just someone interested in finance, you'll find useful tools here to help you make sense of financial data.
-
-## Features
-
-- Data extraction from various financial APIs
-- Data cleaning and preprocessing
-- Financial metrics calculation (e.g., ROI, volatility)
-- Visualization of financial data
-- Predictive modeling using machine learning
-
-## Installation
-
-To get started, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/Python-Financial-Analysis.git
-cd Python-Financial-Analysis
+bash
+Copiar
+Editar
 pip install -r requirements.txt
-```
+📅 Roadmap
+ Setup project structure
 
-## Usage
+ Implement data ingestion (Yahoo Finance)
 
-Explore the Jupyter notebooks in the `notebooks` directory to see examples of financial analysis. You can also run the scripts in the `scripts` directory for specific tasks.
+ Compute financial ratios
 
-```bash
-# Example of running a script
-python scripts/analyze_stock.py --ticker AAPL
-```
+ Add basic visualizations
 
-## Contributing
+ Add ML model for predictions
 
-We welcome contributions! Please read our contributing guidelines to get started.
+ Optional: Streamlit dashboard
 
-## License
+👤 Author
+Héctor David Roque Barajas
+Actuarial science student | Finance & AI enthusiast
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+📄 License
+MIT License
