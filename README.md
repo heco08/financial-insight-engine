@@ -37,17 +37,12 @@ git clone https://github.com/heco08/financial-insight-engine.git
 cd financial-insight-engine
 Create and activate a virtual environment:
 
-bash
-Copiar
-Editar
 python3 -m venv venv
 source venv/bin/activate
 Install dependencies:
 
-bash
-Copiar
-Editar
 pip install -r requirements.txt  # (coming soon)
+
 📅 Roadmap
 ✅ Set up project structure
 
