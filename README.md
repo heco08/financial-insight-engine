@@ -27,47 +27,48 @@ financial-insight-engine/
 ├── README.md
 └── .gitignore
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🚀 Getting Started
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/heco08/financial-insight-engine.git
-   cd financial-insight-engine
-Create a virtual environment and activate it:
+1. Clone this repository:
+```bash
+git clone https://github.com/heco08/financial-insight-engine.git
+cd financial-insight-engine
+Create and activate a virtual environment:
 
 bash
 Copiar
 Editar
 python3 -m venv venv
 source venv/bin/activate
-Install dependencies (coming soon):
+Install dependencies:
 
 bash
 Copiar
 Editar
-pip install -r requirements.txt
+pip install -r requirements.txt  # (coming soon)
 📅 Roadmap
- Setup project structure
+✅ Set up project structure
 
- Implement data ingestion (Yahoo Finance)
+✅ Load historical stock data
 
- Compute financial ratios
+⏳ Compute financial ratios
 
- Add basic visualizations
+⏳ Add basic visualizations
 
- Add ML model for predictions
+⏳ Add ML model for prediction
 
- Optional: Streamlit dashboard
+⏳ Optional: Streamlit dashboard
 
 👤 Author
 Héctor David Roque Barajas
-Actuarial science student | Finance & AI enthusiast
+Actuarial Science student | Finance & AI enthusiast
+
+📚 References
+Base repository: rvats20/Python-Financial-Analysis
+
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, among others.
 
 📄 License
 MIT License
